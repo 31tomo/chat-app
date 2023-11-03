@@ -25,9 +25,12 @@
 .create-room a {
   font-size: 10px;
   border: 1px solid lightblue;
-  padding: 14px;
   color: deepskyblue;
   text-decoration: none;
+}
+
+.create-room {
+  padding: 14px;
 }
 
 .rooms {
